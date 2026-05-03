@@ -2,10 +2,10 @@
   "chroot64": "https://github.com/zalexdev/strykerapp/releases/download/4.0o/chroot64.tar.gz",
   "chroot32": "https://github.com/zalexdev/strykerapp/releases/download/4.0o/chroot32.tar.gz",
   "isfix": false,
-  "name": "3.0 Release",
+  "name": "4.0 Release",
   "changelog": "See git page",
   "srcapk": "https://github.com/zalexdev/strykerapp/releases/download/4.0/Stryker.4.0R.apk",
   "apk": "https://github.com/zalexdev/strykerapp/releases/download/4.0/Stryker.4.0R.apk",
-  "version": 303,
+  "version": 400,
   "apkonly": false
 }
